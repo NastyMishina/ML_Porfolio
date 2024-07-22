@@ -1,3 +1,5 @@
-##### __Ссылки на данные:__    
+#####__Ссылки на данные:__  
+###### Hackathon:
 * __Хакатон от Альфа Банка:__ https://disk.yandex.ru/d/LZgUhJSf8huDMQ
+###### Procject:
 * __Ранжирование клиентов банка:__ https://www.kaggle.com/datasets/parisrohan/credit-score-classification?select=train.csv
