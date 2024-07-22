@@ -1,4 +1,4 @@
-#####__Ссылки на данные:__  
+##### __Ссылки на данные:__  
 ###### Hackathon:
 * __Хакатон от Альфа Банка:__ https://disk.yandex.ru/d/LZgUhJSf8huDMQ
 ###### Procject:
