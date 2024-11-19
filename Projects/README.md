@@ -9,7 +9,8 @@ ___Структура:___
 5) Диагностика модели
 6) Подбор гиперпараметров
 
-Ссылка на код: https://colab.research.google.com/drive/1PbzIqQBTEi-lmPlnHtVIgdRELBQ8a0yD?usp=sharing
+Ссылка на код: https://colab.research.google.com/drive/1PbzIqQBTEi-lmPlnHtVIgdRELBQ8a0yD?usp=sharing    
+Ссылка на датасет: https://www.kaggle.com/datasets/parisrohan/credit-score-classification?select=train.csv
 
 В результате обработки датасета были решены следующие проблемы: 
 * Многие данные имееют тип object, хотя описывают численные характеристики
